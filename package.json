@@ -1,0 +1,23 @@
+{
+  "name": "rest-api-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levantinhit2/nodejsdocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levantinhit2/nodejsdocker/issues"
+  },
+  "homepage": "https://github.com/levantinhit2/nodejsdocker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
